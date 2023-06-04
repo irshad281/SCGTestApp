@@ -1,0 +1,6 @@
+framework module Pods_SCGTest_SCGTestUITests {
+  umbrella header "Pods-SCGTest-SCGTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
